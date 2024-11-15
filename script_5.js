@@ -53,9 +53,10 @@ let thisBook = books.find(objet => objet.id === 873495);
 console.log(thisBook)
 
 
-//Supprime le livre avec l'ID: 133712 ;
-console.log("**********Supprime le livre avec l'ID: 133712 ;");
+
+// //Supprime le livre avec l'ID: 133712 ;
+// console.log("**********Supprime le livre avec l'ID: 133712 ;");
 
 
-//Trie les livres par ordre alphabétique (sans celui avec l'ID 133712 car il est supprimé).
-console.log("**********Trie les livres par ordre alphabétique (sans celui avec l'ID 133712 car il est supprimé).");
+// //Trie les livres par ordre alphabétique (sans celui avec l'ID 133712 car il est supprimé).
+// console.log("**********Trie les livres par ordre alphabétique (sans celui avec l'ID 133712 car il est supprimé).");

@@ -14,9 +14,5 @@ const books = [
 ];
 
 
-//Trouve le livre avec l'ID: 873495 ;
-console.log("**********Trouve le livre avec l'ID: 873495 ;");
-let thisBook = books.find(objet => objet.id === 873495);
-console.log(thisBook)
 
 
